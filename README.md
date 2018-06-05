@@ -1,0 +1,2 @@
+# .gitconfig
+Ejemplo de git
